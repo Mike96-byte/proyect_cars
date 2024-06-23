@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly_express as px
 
-st.header("Histogramas para autos")
+st.header("Graficas para autos")
 
 car_data = pd.read_csv(
     "vehicles_us.csv")
