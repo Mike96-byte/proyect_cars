@@ -5,7 +5,7 @@ import plotly_express as px
 st.header("Histogramas para autos")
 
 car_data = pd.read_csv(
-    r"C:\Users\migue\Documents\proyect_cars\vehicles_us.csv")
+    "vehicles_us.csv")
 hist_button = st.button("Construir un histograma")
 scatter_button = st.button("Construir un grafico de dispersión")
 
