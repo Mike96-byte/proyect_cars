@@ -11,3 +11,7 @@ Espero te ayude a revisar cual es tu auto favorito y cual carro te conviene.
 
 
 Anexo el link para mi pagina web creada: https://proyect-cars.onrender.com
+
+
+
+Muchas gracias Revisor de TripleTen, hago las correcciones que me pidieron y le vuelvo a compartir el enlace :)
